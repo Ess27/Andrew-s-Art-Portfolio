@@ -1,0 +1,35 @@
+Andrew Hartfield
+
+AAMT 187-Web Design I
+
+Final Project
+
+03/10/24
+___________________________________________________________
+
+Written Planning Analysis Sheet
+
+===========================================================
+
+Web Site Goal:
+	Since my website is my Art Portfolio, my goal is to show case my artwork to the public, as well as, interested clients. Included in my site will be an “About me” page to introduce myself, and a content page of my digital illustrations consisting of, black and white, landscapes, portraits, and fantasy works.
+	
+Page titles, results:
+	The website would consist of three pages, About Me, Art, and Connect. 
+•	About Me -  Who I am and why I draw, list of creative services, list of creative services.
+•	Art – My artwork page, with clickable thumbnails displaying my black and whites, landscapes, portraits, and fantasy works in a 2x2 grid.
+•	Connect – The “How to contact page” with text fields and area fields that include: Name, email, subject line, body, submit and clear buttons. Repeating information about what creative services I offer. 
+•	All three pages will include social media links in the footer and links to art pages.
+
+Information, content source:
+	I am the source of the showcased artwork, banner images, photo of me in about me page. The source of textured backgrounds/ overlayed images that provide the theme of the site, are sourced from royalty free image sites. 
+	Photos needed:
+•	Photo of me for about me section
+•	Three digital art banners for three pages
+•	Thumbnail images of my work to categorize artworks.
+•	Illustrations to fill each artwork page, black and white, landscapes, portraits, fantasies.
+•	Royalty free images of textures: Dark wood, Hessian, Brass, Moodiness, Rustic, Old-world.
+
+Form use:
+	A form will be used on the Connect page. A form consisting of important elements to email me for potential work or questions. Also including my offered services.  
+
